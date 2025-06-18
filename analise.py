@@ -1,1 +1,1 @@
-print("oiiiiiiiiiii!")
+print(2+3)
